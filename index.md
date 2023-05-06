@@ -1,6 +1,6 @@
 # Germano Riccio
 
-**Hi! I'm a Social Science major with a passion for digital transformation and IT solutions - or in other words, I'm just really good at Googling! My skills in communication, digital process management, and low-code development enable me to create a positive impact for anyone seeking assistance in optimizing their digital workflows and embracing innovation, regardless of their background or industry.**
+**Hi! I'm a Digital Cultures and Communication major with a passion for digital transformation and IT solutions - or in other words, I'm just really good at Googling! My skills in communication, digital process management, and low-code development enable me to create a positive impact for anyone seeking assistance in optimizing their digital workflows and embracing innovation, regardless of their background or industry.**
 
 ## Work Experience
 
