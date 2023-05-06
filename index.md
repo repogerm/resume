@@ -87,9 +87,6 @@ _2022 - Present_
 ### Computer Consulting Services
 - Offering comprehensive computer consulting services to help businesses navigate the digital landscape and identify effective IT solutions. Aiding in the implementation of robust and streamlined IT infrastructures that promote business growth and enhance teamwork.
 
-### BreachAlert
-- A data breach monitoring and notification service utilizing the Have I Been Pwned database. BreachAlert actively monitors clients' personal information and promptly notifies them in the event of a breach, enabling swift action to limit potential damage. A monthly subscription is required to maintain protection.
-
 ### Desktop as a Service
 - Providing remote access to high-performance computers for tasks such as image rendering, 3D modeling, video production, and data analysis at an affordable hourly rate. Preconfiguration of necessary software is included. Pricing is determined based on the specific hardware requirements.
 
