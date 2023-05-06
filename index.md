@@ -31,7 +31,7 @@ _2018 - Present_
 
 ## Education
 
-**Università degli Studi di Napoli Federico II** — Bachelor's Degree in Digital cultures and communication research (in progress)
+**Università degli Studi di Napoli Federico II** — Bachelor's Degree in Digital cultures and communication (in progress)
 _(Expected Graduation: July 2023)_
 - Relevant Coursework: Digital Communications, IT Project Management, User Experience Design
 
