@@ -96,7 +96,7 @@ _2022 - Present_
 ### Low-Code App Development
 - Developing customized low-code applications for clients in need of tailored software solutions. Collaborating with clients to gather requirements and convert them into functional, user-friendly applications. Offering ongoing updates and maintenance for existing applications, incorporating enhancements as necessary.
 
-### ConcordatoFacile
+### [ConcordatoFacile](https://concordatofacile.carrd.co/)
 - This service is designed to help various entities manage rent-controlled lease contracts using dependable IT tools. The solution provided includes efficient data management, automatic calculations, and seamless communication to enhance effectiveness and reduce errors. The tools utilized are Google Workspace for centralized data and document management, JotForm and Google Sheets for data collection and rent calculations, DocVariables and Google Drive for customized contracts and secure storage, and YAMM for streamlined contract distribution. The goal is to support clients in proficiently managing rent-controlled lease agreements. Three monthly plans are available to cater to different client needs.
 
 ## Languages
