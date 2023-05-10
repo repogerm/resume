@@ -1,7 +1,7 @@
 # Germano Riccio
 
 - **Email:** germ.riccio@gmail.com
-- **Phone Number:** +393313815525
+- **Telefono:** +393313815525
 - **LinkedIn:** [linkedin.com/in/germriccio](https://www.linkedin.com/in/germriccio/)
 
 Sono uno studente di Culture Digitali e della Comunicazione con un forte interesse per la trasformazione digitale e le innovazioni IT. Durante i miei anni di esperienza come consulente IT freelance e sviluppatore low-code, ho sviluppato una particolare passione per l'individuazione di opportunità di cambiamento positivo in settori che tradizionalmente resistono all'innovazione digitale.
@@ -41,9 +41,9 @@ _2018 - Present_
 
 ## Education
 
-**Università degli Studi di Napoli Federico II** — Bachelor's Degree in Digital cultures and communication (in progress)
-_(Expected Graduation: July 2023)_
-- Relevant Coursework: Digital Communications, IT Project Management, User Experience Design
+**Università degli Studi di Napoli Federico II** — Laurea triennale in Culture Digitali e della Comunicazione (in corso)
+_(Laurea prevista: luglio 2023)_
+- Corsi di studio rilevanti: Comunicazione digitale, IT Project Management, User Experience Design
 
 ## Certifications
 
@@ -64,14 +64,14 @@ _(Expected Graduation: July 2023)_
 
 ## Skills
 
-- Effective communication and interpersonal skills
-- Proficient in digital process management and optimization techniques
-- Skilled in IT support, troubleshooting, and infrastructure management
-- Experienced in low-code application development utilizing Google Apps Script
-- Detail-oriented and highly analytical
-- Strong team player with the ability to work independently
-- Adaptable and effective problem-solving abilities
-- Efficient time management and prioritization abilities
+- Efficaci capacità comunicative e interpersonali
+- Conoscenza delle tecniche di gestione e ottimizzazione dei processi digitali
+- Abilità nel supporto IT, nella risoluzione dei problemi e nella gestione dell'infrastruttura
+- Esperienza nello sviluppo di applicazioni low-code utilizzando Google Apps Script
+- Orientato ai dettagli e altamente analitico
+- Forte attitudine al lavoro di squadra con capacità di lavorare in modo indipendente
+- Capacità di adattamento e di risoluzione efficace dei problemi
+- Efficiente gestione del tempo e capacità di stabilire le priorità
 
 ## Volunteer Experience
 
@@ -83,25 +83,25 @@ _2022 - Present_
 ## Services
 
 ### Technical Support
-- Offering remote assistance for software-related technical issues, provided the client has a reliable internet connection. For hardware malfunctions, internet connectivity problems, or unresponsive devices, on-site support is available exclusively to clients based in Naples, Italy, and its nearby regions.
+- Offro assistenza remota per problemi tecnici legati al software, a condizione che il cliente disponga di una connessione internet affidabile. Per i malfunzionamenti hardware, problemi di connettività Internet o dispositivi del tutto privi di funzionalità, l'assistenza in loco è disponibile esclusivamente per i clienti ubicati a Napoli e zone limitrofe.
 
 ### Custom PC Assembly
-- Assisting clients in designing and assembling custom-built desktop computers tailored to their specific needs and budget.
+- Assisto i clienti nella progettazione e nell'assemblaggio di computer desktop personalizzati in base alle loro esigenze specifiche e al loro budget.
 
 ### Google Sheets and Microsoft Excel Consulting
-- Providing customized spreadsheet solutions for a wide range of workflows, from brief consultations to extensive projects. Offering the benefits of intricate calculations, automation of repetitive tasks, and seamless integration with existing systems for enhanced productivity and time-saving opportunities.
+- Offro soluzioni personalizzate basate su fogli di calcolo per un'ampia gamma di attività, da brevi consulenze a progetti di ampio respiro. Offro ai clienti la possibilità di semplificare calcoli complessi, automatizzare attività ripetitive e un'integrazione ottimale con i sistemi già in uso, garantendo maggiore produttività oltre ad un notevole risparmio di tempo.
 
 ### Website Creation
-- Designing and developing user-centric websites that fulfill client requirements and exceed expectations. Ensuring a visually appealing online presence and a seamless user experience. Guiding clients through the entire process, from inception to completion.
+- Progetto e sviluppo siti web incentrati sull'utente che soddisfano i requisiti dei clienti e ne superano le aspettative. Garantisco una presenza online visivamente accattivante e un'esperienza utente priva di interruzioni. Guido i clienti attraverso l'intero processo, dall'inizio al completamento.
 
 ### Computer Consulting Services
-- Offering comprehensive computer consulting services to help businesses navigate the digital landscape and identify effective IT solutions. Aiding in the implementation of robust and streamlined IT infrastructures that promote business growth and enhance teamwork.
+- Offro un servizio di consulenza informatica a 360° per aiutare le attività a orientarsi nel panorama digitale e a individuare soluzioni informatiche efficaci. Aiuto nell'implementazione di infrastrutture informatiche solide e semplificate che promuovono la crescita del business e migliorano il lavoro di squadra.
 
 ### Desktop as a Service
-- Providing remote access to high-performance computers for tasks such as image rendering, 3D modeling, video production, and data analysis at an affordable hourly rate. Preconfiguration of necessary software is included. Pricing is determined based on the specific hardware requirements.
+- Fornisco l'accesso remoto a computer ad alte prestazioni per attività quali il rendering di immagini, la modellazione 3D, la produzione video e l'analisi di dati a una tariffa oraria accessibile. La preconfigurazione del software necessario è inclusa. Il prezzo è determinato in base ai requisiti hardware richiesti.
 
 ### Low-Code App Development
-- Developing customized low-code applications for clients in need of tailored software solutions. Collaborating with clients to gather requirements and convert them into functional, user-friendly applications. Offering ongoing updates and maintenance for existing applications, incorporating enhancements as necessary.
+- Sviluppo applicazioni low-code personalizzate per clienti che necessitano di soluzioni software su misura. Collaboro con i clienti per raccogliere i requisiti e convertirli in applicazioni funzionali e di facile utilizzo. Offro aggiornamenti e manutenzione costante per le applicazioni esistenti, implementando i miglioramenti eventualmente necessari.
 
 ### [ConcordatoFacile](https://concordatofacile.carrd.co/)
 - Questo servizio è stato progettato per aiutare vari enti a gestire i contratti di locazione a canone concordato utilizzando strumenti informatici affidabili. La soluzione fornita comprende una gestione efficiente dei dati, calcoli automatici e un'efficace gestione delle comunicazioni per migliorare l'efficienza e ridurre il rischio di errori. Gli strumenti utilizzati sono Google Workspace per la gestione centralizzata dei dati e dei documenti, JotForm e Google Sheets per la raccolta dei dati e il calcolo dei canoni di locazione, DocVariables e Google Drive per la personalizzazione e la conservazione dei contratti e YAMM per semplificare la consegna dei contratti. L'obiettivo è quello di aiutare i clienti a gestire in modo efficiente i contratti di locazione a canone concordato. Sono disponibili tre piani mensili per soddisfare le diverse esigenze dei clienti.
