@@ -4,7 +4,13 @@
 - **Phone Number:** +393313815525
 - **LinkedIn:** [linkedin.com/in/germriccio](https://www.linkedin.com/in/germriccio/)
 
-**Hi! I'm a Digital Cultures and Communication major with a passion for digital transformation and IT solutions. My skills in communication, digital process management, and low-code development enable me to create a positive impact for anyone seeking assistance in optimizing their digital workflows and embracing innovation, regardless of their background or industry.**
+**Sono uno studente di Culture Digitali e della Comunicazione con un forte interesse per la trasformazione digitale e le innovazioni IT. Durante i miei anni di esperienza come consulente IT freelance e sviluppatore low-code, ho sviluppato una particolare passione per l'individuazione di opportunità di cambiamento positivo in settori che tradizionalmente resistono all'innovazione digitale.
+
+Lavoro a stretto contatto con i clienti per ottimizzare i loro flussi di lavoro digitali, promuovendo l'adozione di soluzioni innovative che possono migliorare l'efficienza e la produttività.
+
+Il mio bagaglio di competenze include la comunicazione, la gestione dei processi digitali e lo sviluppo low-code, il tutto integrato con una vasta esperienza nella risoluzione dei problemi IT e nella gestione delle infrastrutture IT. Le mie competenze nello sviluppo di applicazioni low-code personalizzate mi permettono di creare soluzioni su misura per le esigenze specifiche dei clienti, garantendo risultati ottimali.
+
+Arricchito da varie certificazioni nel campo IT, il mio obiettivo è quello di continuare a generare un impatto positivo, promuovendo l'adozione di soluzioni digitali innovative nei settori che ne hanno più bisogno.**
 
 ## Work Experience
 
@@ -98,7 +104,7 @@ _2022 - Present_
 - Developing customized low-code applications for clients in need of tailored software solutions. Collaborating with clients to gather requirements and convert them into functional, user-friendly applications. Offering ongoing updates and maintenance for existing applications, incorporating enhancements as necessary.
 
 ### [ConcordatoFacile](https://concordatofacile.carrd.co/)
-- This service is designed to help various entities manage rent-controlled lease contracts using dependable IT tools. The solution provided includes efficient data management, automatic calculations, and seamless communication to enhance effectiveness and reduce errors. The tools utilized are Google Workspace for centralized data and document management, JotForm and Google Sheets for data collection and rent calculations, DocVariables and Google Drive for customized contracts and secure storage, and YAMM for streamlined contract distribution. The goal is to support clients in proficiently managing rent-controlled lease agreements. Three monthly plans are available to cater to different client needs.
+- Questo servizio è stato progettato per aiutare vari enti a gestire i contratti di locazione a canone concordato utilizzando strumenti informatici affidabili. La soluzione fornita comprende una gestione efficiente dei dati, calcoli automatici e un'efficace gestione delle comunicazioni per migliorare l'efficienza e ridurre il rischio di errori. Gli strumenti utilizzati sono Google Workspace per la gestione centralizzata dei dati e dei documenti, JotForm e Google Sheets per la raccolta dei dati e il calcolo dei canoni di locazione, DocVariables e Google Drive per la personalizzazione e la conservazione dei contratti e YAMM per semplificare la consegna dei contratti. L'obiettivo è quello di aiutare i clienti a gestire in modo efficiente i contratti di locazione a canone concordato. Sono disponibili tre piani mensili per soddisfare le diverse esigenze dei clienti.
 
 ## Languages
 
