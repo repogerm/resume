@@ -4,13 +4,13 @@
 - **Phone Number:** +393313815525
 - **LinkedIn:** [linkedin.com/in/germriccio](https://www.linkedin.com/in/germriccio/)
 
-**Sono uno studente di Culture Digitali e della Comunicazione con un forte interesse per la trasformazione digitale e le innovazioni IT. Durante i miei anni di esperienza come consulente IT freelance e sviluppatore low-code, ho sviluppato una particolare passione per l'individuazione di opportunità di cambiamento positivo in settori che tradizionalmente resistono all'innovazione digitale.
+Sono uno studente di Culture Digitali e della Comunicazione con un forte interesse per la trasformazione digitale e le innovazioni IT. Durante i miei anni di esperienza come consulente IT freelance e sviluppatore low-code, ho sviluppato una particolare passione per l'individuazione di opportunità di cambiamento positivo in settori che tradizionalmente resistono all'innovazione digitale.
 
 Lavoro a stretto contatto con i clienti per ottimizzare i loro flussi di lavoro digitali, promuovendo l'adozione di soluzioni innovative che possono migliorare l'efficienza e la produttività.
 
 Il mio bagaglio di competenze include la comunicazione, la gestione dei processi digitali e lo sviluppo low-code, il tutto integrato con una vasta esperienza nella risoluzione dei problemi IT e nella gestione delle infrastrutture IT. Le mie competenze nello sviluppo di applicazioni low-code personalizzate mi permettono di creare soluzioni su misura per le esigenze specifiche dei clienti, garantendo risultati ottimali.
 
-Arricchito da varie certificazioni nel campo IT, il mio obiettivo è quello di continuare a generare un impatto positivo, promuovendo l'adozione di soluzioni digitali innovative nei settori che ne hanno più bisogno.**
+Arricchito da varie certificazioni nel campo IT, il mio obiettivo è quello di continuare a generare un impatto positivo, promuovendo l'adozione di soluzioni digitali innovative nei settori che ne hanno più bisogno.
 
 ## Work Experience
 
