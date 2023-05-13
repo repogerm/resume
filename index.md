@@ -47,6 +47,7 @@ _(Laurea prevista: luglio 2023)_
 
 ## Certificazioni
 
+- [IBM Machine Learning Professional Certificate - Coursera](https://www.credly.com/badges/e562c28b-730a-444b-9776-9d1d3429b6a8/public_url)
 - [Angular - The Complete Guide (2023 Edition) Certificate of completion - Udemy](https://www.udemy.com/certificate/UC-bb7aba1d-f717-49ca-81e6-9cab5c861c16/)
 - [IBM AI Engineering Professional Certificate - Coursera](https://www.credly.com/badges/40d36ac5-31a2-4ce0-a3c0-b2ea91ff4b64)
 - [AWS Certified Solutions Architect - Associate (SAA-C02) Certificate of completion - A Cloud Guru](https://verify.acloud.guru/3B2BBA418F79)
