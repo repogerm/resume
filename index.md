@@ -3,6 +3,7 @@
 - **Email:** germ.riccio@gmail.com
 - **Telefono:** +393313815525
 - **LinkedIn:** [linkedin.com/in/germriccio](https://www.linkedin.com/in/germriccio/)
+- **P. IVA:** 10300311213
 
 Sono uno studente di Culture Digitali e della Comunicazione con un forte interesse per la trasformazione digitale e le innovazioni IT. Durante i miei anni di esperienza come consulente IT freelance e sviluppatore low-code, ho sviluppato una particolare passione per l'individuazione di opportunità di cambiamento positivo in settori che tradizionalmente resistono all'innovazione digitale.
 
